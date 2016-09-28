@@ -1,0 +1,8 @@
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\bin\Debug\GetDeviceFW.exe
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\bin\Debug\GetDeviceFW.pdb
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\obj\x86\Debug\GetDeviceFW.Config.resources
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\obj\x86\Debug\GetDeviceFW.Properties.Resources.resources
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\obj\x86\Debug\GetDeviceFW.csproj.GenerateResource.Cache
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\obj\x86\Debug\GetDeviceFW.exe
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\obj\x86\Debug\GetDeviceFW.pdb
+E:\Rantopad\Other\DEMO\GetDeviceFW\GetDeviceFW\GetDeviceFW\obj\x86\Debug\GetDeviceFW.MainForm.resources
